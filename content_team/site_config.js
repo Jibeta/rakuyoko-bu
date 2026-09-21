@@ -2,7 +2,7 @@
 // (OGP・canonical・サイトマップの絶対URLに使われる)。
 module.exports = {
   siteName: "ラクヨコ部",
-  baseUrl: "https://jibetanoai.github.io/rakuyoko-bu",
+  baseUrl: "https://jibeta.github.io/rakuyoko-bu",
   description: "楽天ラクヨコのプチプラ・トレンドアイテムを紹介するメディアです。",
   twitterHandle: null, // TODO: Xアカウント開設後に "@xxxxx" を設定
   googleSiteVerification: null, // TODO: Search Console登録後に設定

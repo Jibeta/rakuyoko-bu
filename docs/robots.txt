@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jibetanoai.github.io/rakuyoko-bu/sitemap.xml
+Sitemap: https://jibeta.github.io/rakuyoko-bu/sitemap.xml
