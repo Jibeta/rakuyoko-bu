@@ -6,5 +6,5 @@ module.exports = {
   description: "楽天ラクヨコのプチプラ・トレンドアイテムを紹介するメディアです。",
   twitterHandle: null, // TODO: Xアカウント開設後に "@xxxxx" を設定
   googleSiteVerification: null, // TODO: Search Console登録後に設定
-  googleAnalyticsId: null, // TODO: GA4設置後に設定
+  googleAnalyticsId: "G-BEE6PYLG40",
 };
